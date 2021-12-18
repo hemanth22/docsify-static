@@ -1,6 +1,6 @@
 ## create a dockerfile
 
-1. Create a dockerfile in ./docs/Dockerfile folders
+1. Create a dockerfile in __./docs/Dockerfile__ folders
 
 ```
 FROM alpine:latest
