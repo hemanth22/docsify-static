@@ -54,3 +54,14 @@ output "URL" {
   value = azurerm_app_service.myapp.default_site_hostname
 }
 ```
+3. Execute below command to initialize terraform and apply.
+
+__Terraform command to initial command__
+```
+terraform init
+```
+
+__Terraform to apply terraform__
+```
+terraform apply --auto-approve
+```
